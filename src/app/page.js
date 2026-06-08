@@ -134,7 +134,7 @@ export default function App() {
                           className="w-[75vw] sm:w-[60vw] md:w-[40vw] max-w-[400px] aspect-square rounded-full border-4 border-white shadow-2xl overflow-hidden"
                         >
                           <img 
-                            src="https://static.vecteezy.com/system/resources/thumbnails/044/279/923/small/dog-on-isolated-background-png.png" 
+                            src="/dog.png" 
                             alt="Raw dog food" 
                             className="w-full h-full object-cover" 
                           />
